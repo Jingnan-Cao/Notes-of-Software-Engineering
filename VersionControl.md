@@ -14,7 +14,7 @@
     
     Compare change overtime.
 
-- Version Dependency
+- Version Dependency and Conflicts
 
 	- [yang's block "why we need version control and virtual environment?"](http://blog.yangliu.online/2016/07/29/when-do-we-need-revision-managing-and-virtual-environment-md/)
     

@@ -9,7 +9,7 @@ Including:
 	- How Git do version control?
 	- How to use GitHub?
 + Package Control
-	- Ruby -- What's in gem?
+	- Ruby -- What's gem?
         
 + Web Concepts
 	
